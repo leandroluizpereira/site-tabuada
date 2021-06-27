@@ -7,7 +7,7 @@ function tabuada(){
 
     for(var i =0;i<1002;i++){
         document.write("<h2> A tabuada do "+i+" </h2>");
-        for(var k =0;k<1002;k++){
+        for(var k =0;k<11;k++){
             var mult = i * k;
 
      document.write("<h1> "+i+" x "+k+" = "+mult+" </h1>");
